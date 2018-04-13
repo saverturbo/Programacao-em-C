@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1495046913 source:c:\users\kedma\desktop\c.directory\ponteiro struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

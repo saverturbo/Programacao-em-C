@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1493821476 source:c:\users\kedma\desktop\c.directory\progressbar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funcoes.h"
+
+1493834857 c:\users\kedma\desktop\c.directory\progressbar\funcoes.h
+
+1493834938 source:c:\users\kedma\desktop\c.directory\progressbar\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funcoes.h"
+

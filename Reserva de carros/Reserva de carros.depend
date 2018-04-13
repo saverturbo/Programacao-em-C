@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480097516 source:c:\users\kedma\desktop\c.directory\reserva de carros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

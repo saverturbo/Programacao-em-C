@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1495053802 source:c:\users\castro\documents\ed\agendasimples\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+

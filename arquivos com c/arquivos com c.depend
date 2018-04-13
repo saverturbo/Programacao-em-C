@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1496777330 source:c:\users\kedma\desktop\c.directory\arquivos com c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1496776559 source:c:\users\kedma\desktop\c.directory\arquivos com c\datas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+

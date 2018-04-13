@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493819164 source:c:\users\kedma\desktop\c.directory\barra\untitled1.c
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+

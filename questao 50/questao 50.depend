@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489006519 source:c:\users\kedma\desktop\c.directory\questao 50\main.c
+	<stdio.h>
+	<stdlib.h>
+

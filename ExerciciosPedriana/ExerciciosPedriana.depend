@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1474646814 source:c:\users\kedma\desktop\c.directory\exerciciospedriana\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1474660328 source:c:\users\kedma\desktop\c.directory\exerciciospedriana\kilo milhas.c
+	<stdio.h>
+	<stdlib.h>
+

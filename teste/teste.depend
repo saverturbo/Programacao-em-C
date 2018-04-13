@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491231117 source:c:\users\kedma\desktop\c.directory\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+

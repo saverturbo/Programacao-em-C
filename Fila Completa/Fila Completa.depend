@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1492027723 source:c:\users\kedma\desktop\c.directory\fila completa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"pilha.h"
+
+1491999963 c:\users\kedma\desktop\c.directory\fila completa\pilha.h
+
+1491942829 source:c:\users\kedma\desktop\c.directory\fila completa\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"pilha.h"
+

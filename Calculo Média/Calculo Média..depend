@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1474641420 source:c:\users\kedma\desktop\c.directory\calculo média\exercicio01.c
+	<stdio.h>
+	<stdlib.h>
+
+1474641557 source:c:\users\kedma\desktop\c.directory\calculo média.\main.c
+	<stdio.h>
+	<stdlib.h>
+

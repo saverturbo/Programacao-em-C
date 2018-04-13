@@ -1,0 +1,1 @@
+Nome=0;Modelo=0;Cor=0;Valor=0;Numero=0;

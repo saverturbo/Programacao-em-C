@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1480284667 source:c:\users\tobs\desktop\c\locadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1480359774 source:c:\users\kedma\desktop\locadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1480359774 source:c:\users\kedma\desktop\c.directory\locadora\main.c
+	<stdio.h>
+	<stdlib.h>
+

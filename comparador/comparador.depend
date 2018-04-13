@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475325551 source:c:\users\kedma\desktop\c.directory\comparador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

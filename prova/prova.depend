@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1478220363 source:c:\users\alunolab10\documents\prova\main.c
+	<stdio.h>
+	<stdlib.h>
+
